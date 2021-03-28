@@ -1,8 +1,8 @@
 <?php
 $host="localhost";
-$localname="root";
-$localpass="";
-$database="betterme";
+$localname="u668467760_betterme";
+$localpass="Betterme123";
+$database="u668467760_betterme";
 
 
 
